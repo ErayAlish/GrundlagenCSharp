@@ -29,16 +29,18 @@ short Zahl;
 
 Zahl = 500;
 
+int _Zahl01 = Convert.ToInt32(Zahl01);
+
+
 if (Zahl01 < 500)
 {
     Console.WriteLine("Sie sind zu tief");
 }
 
-else {
-    if (Zahl01 > 500)
-{
+else if (Zahl01>500)
+
+    {
 
         Console.WriteLine("Sie sind zu hoch");
 
     }
-}
