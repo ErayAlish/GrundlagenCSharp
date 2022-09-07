@@ -3,7 +3,6 @@
 //Aufgabe 1 
 
 
-
 {
     string a = "Hallo";
     string b = "H";
