@@ -1,6 +1,6 @@
 ﻿using System;
 
-////Aufgabe 
+////Aufgabe 1
 
 //Console.WriteLine("Biite geben Sie die erste Zahl ein:");
 //string Zahl1 = Console.ReadLine();
